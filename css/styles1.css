@@ -4,7 +4,10 @@ body {
     background-image:url("../img/computer-monitor-coding.jpg");
 }
 
-header, main, nav, footer, form  { 
+main, nav, footer, form  { 
+    text-align: center;
+}
+header {
     text-align: center;
 }
 nav a:hover {
