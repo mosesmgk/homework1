@@ -9,6 +9,7 @@ main, nav, footer, form  {
 }
 header {
     text-align: center;
+    
 }
 nav a:hover {
   background-color: green;
@@ -38,7 +39,7 @@ h1 {
     font-family: 'MuseoModerno', cursive;
     font-family: 'Russo One', sans-serif;
     color: red ;
-    font-size:15px;
+    
 }
 .button {
   border: none;
@@ -53,7 +54,10 @@ h1 {
 }
 .button1 {background-color: #4CAF50;
 }
-
+#copyright {
+    color: #004E98;
+    font-size: .8em;
+}
 footer {
     color:red;
 }
@@ -75,11 +79,19 @@ h2 {
 .cyber {
     color :green;
 }
-
+.p1 {
+    font: 100px;
+}
 img:hover {
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1);
 }
 figure {
     color:green;
+}
+hr {
+    width: 75%;
+    height: 1px;
+    border: 0;
+    background-color: red;
 }
