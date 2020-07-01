@@ -75,9 +75,7 @@ h2 {
 .cyber {
     color :green;
 }
-.p1 {
-    font: 100px;
-}
+
 img:hover {
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1);
